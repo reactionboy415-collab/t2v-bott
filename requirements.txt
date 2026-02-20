@@ -1,3 +1,0 @@
-aiogram
-httpx[http2]
-flask
